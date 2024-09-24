@@ -21,3 +21,10 @@ Added H1 and subheaders to organize content structure.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Added image with descriptive alt-text to the index.md file.
+
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
